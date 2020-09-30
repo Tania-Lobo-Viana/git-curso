@@ -1,3 +1,7 @@
 Email
 nome
 cidade
+
+
+historico 
+genealogia
